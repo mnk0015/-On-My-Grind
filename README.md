@@ -1,8 +1,3 @@
-# React + Vite
+# ON My Grind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Have you ever wanted to work at Starbucks? You're about to be one step closer. In this app inspired by Wordle, memorize coffee drink recipes and quiz yourself on a random real (and possibly discontinued 😉) Starbucks drink's temperature, flavor, milk type, and blendedness. The app will let you know if you're a natural at barista-ing.**
